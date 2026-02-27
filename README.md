@@ -1,6 +1,4 @@
 -  Hi, I’m Fasika  Lemma
--  I’m interested in Software Engineering
--  I’m currently learning at Hilcoe
   
 
 <!---
